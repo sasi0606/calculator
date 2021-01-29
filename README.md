@@ -2,6 +2,8 @@ Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
+[![Build Status](https://dev.azure.com/azurelab0909/PartsUnlimited/_apis/build/status/sasi0606.calculator?branchName=master)](https://dev.azure.com/azurelab0909/PartsUnlimited/_build/latest?definitionId=4&branchName=master)
+https://dev.azure.com/azurelab0909/PartsUnlimited/_apis/build/status/sasi0606.calculator?branchName=master
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
@@ -13,5 +15,5 @@ To build, simply:
 
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
-https://dev.azure.com/azurelab0909/PartsUnlimited/_apis/build/status/sasi0606.calculator?branchName=master
+
 
