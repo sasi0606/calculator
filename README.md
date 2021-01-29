@@ -13,4 +13,5 @@ To build, simply:
 
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
+https://dev.azure.com/azurelab0909/PartsUnlimited/_apis/build/status/sasi0606.calculator?branchName=master
 
